@@ -1,11 +1,8 @@
 # Task 1 - Password Generator
 
 ✅ **Internship Task:** Create a password generator GUI using Python (tkinter)  
-👩‍💻 **Created by:** Tanishka  
+👩‍💻 **Created by:** Abir Singh  
 📅 **Internship:** CodSoft - July 2025 Batch  
-🔗 **LinkedIn Demo Video:** _[Add Your Video Link Here]_  
-🙋‍♀️ **Connect with me:** [LinkedIn - Tanishka Soni](https://www.linkedin.com/in/tanishka-soni)
-
 ---
 
 ## 🧠 Features:
